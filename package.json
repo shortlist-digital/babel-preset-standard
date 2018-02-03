@@ -1,0 +1,18 @@
+{
+  "name": "@shortlist-studio/babel-preset-standard",
+  "version": "0.1.0",
+  "description": "Standard Babel configuration for Shortlist projects",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-plugin-external-helpers": "^6.22.0",
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.12",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1"
+  }
+}
